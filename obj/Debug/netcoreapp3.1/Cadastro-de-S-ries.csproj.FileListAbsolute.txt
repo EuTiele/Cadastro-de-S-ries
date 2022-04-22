@@ -1,0 +1,13 @@
+C:\Users\Tiele\Cadastro Séries\Cadastro-de-S-ries\bin\Debug\netcoreapp3.1\Cadastro-de-S-ries.exe
+C:\Users\Tiele\Cadastro Séries\Cadastro-de-S-ries\bin\Debug\netcoreapp3.1\Cadastro-de-S-ries.deps.json
+C:\Users\Tiele\Cadastro Séries\Cadastro-de-S-ries\bin\Debug\netcoreapp3.1\Cadastro-de-S-ries.runtimeconfig.json
+C:\Users\Tiele\Cadastro Séries\Cadastro-de-S-ries\bin\Debug\netcoreapp3.1\Cadastro-de-S-ries.runtimeconfig.dev.json
+C:\Users\Tiele\Cadastro Séries\Cadastro-de-S-ries\bin\Debug\netcoreapp3.1\Cadastro-de-S-ries.dll
+C:\Users\Tiele\Cadastro Séries\Cadastro-de-S-ries\bin\Debug\netcoreapp3.1\Cadastro-de-S-ries.pdb
+C:\Users\Tiele\Cadastro Séries\Cadastro-de-S-ries\obj\Debug\netcoreapp3.1\Cadastro-de-S-ries.csprojAssemblyReference.cache
+C:\Users\Tiele\Cadastro Séries\Cadastro-de-S-ries\obj\Debug\netcoreapp3.1\Cadastro-de-S-ries.AssemblyInfoInputs.cache
+C:\Users\Tiele\Cadastro Séries\Cadastro-de-S-ries\obj\Debug\netcoreapp3.1\Cadastro-de-S-ries.AssemblyInfo.cs
+C:\Users\Tiele\Cadastro Séries\Cadastro-de-S-ries\obj\Debug\netcoreapp3.1\Cadastro-de-S-ries.csproj.CoreCompileInputs.cache
+C:\Users\Tiele\Cadastro Séries\Cadastro-de-S-ries\obj\Debug\netcoreapp3.1\Cadastro-de-S-ries.dll
+C:\Users\Tiele\Cadastro Séries\Cadastro-de-S-ries\obj\Debug\netcoreapp3.1\Cadastro-de-S-ries.pdb
+C:\Users\Tiele\Cadastro Séries\Cadastro-de-S-ries\obj\Debug\netcoreapp3.1\Cadastro-de-S-ries.genruntimeconfig.cache
